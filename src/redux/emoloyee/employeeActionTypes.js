@@ -1,0 +1,2 @@
+export const UPDATE_EMP_DATA = "UPDATE_EMP_DATA";
+export const IS_GETTING_EMP_DATA = "IS_GETTING_EMP_DATA";
